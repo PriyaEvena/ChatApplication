@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "972995631072",
+    "firebase_url": "https://messagingapp-48a08.firebaseio.com",
+    "project_id": "messagingapp-48a08",
+    "storage_bucket": "messagingapp-48a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972995631072:android:d71178a67b4582c3",
+        "android_client_info": {
+          "package_name": "project.messagingapp.amazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972995631072-j6h0v3u3smdb4m7c2oddsqe984qdpfgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.messagingapp.amazon",
+            "certificate_hash": "344ba530c770bad08dbbeda93fd92f807cdbb2c4"
+          }
+        },
+        {
+          "client_id": "972995631072-6r5a8ejunem2a2fle8f1pcmhf39q1vn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcXhUGJSK_WGrKUusOCSL2MDHkAhW77kI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972995631072-6r5a8ejunem2a2fle8f1pcmhf39q1vn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972995631072:android:03e4656563182d6f",
+        "android_client_info": {
+          "package_name": "project.messagingapp.amazon.amazonproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972995631072-pcru169grjpasrtojglcqubcja9o9ngn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.messagingapp.amazon.amazonproject",
+            "certificate_hash": "9918b3f00c24cab50385d58cbd01a3ee51bace7f"
+          }
+        },
+        {
+          "client_id": "972995631072-siugobs9o74ei7sonu38166khefbrmou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.messagingapp.amazon.amazonproject",
+            "certificate_hash": "344ba530c770bad08dbbeda93fd92f807cdbb2c4"
+          }
+        },
+        {
+          "client_id": "972995631072-6r5a8ejunem2a2fle8f1pcmhf39q1vn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcXhUGJSK_WGrKUusOCSL2MDHkAhW77kI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972995631072-6r5a8ejunem2a2fle8f1pcmhf39q1vn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

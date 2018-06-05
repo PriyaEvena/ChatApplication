@@ -1,0 +1,4 @@
+#Tue Jun 05 20:42:05 IST 2018
+base.0=C\:\\Users\\Priya\\AndroidStudioProjects\\Amazon\\AmazonProject-20180405T055540Z-001\\AmazonProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

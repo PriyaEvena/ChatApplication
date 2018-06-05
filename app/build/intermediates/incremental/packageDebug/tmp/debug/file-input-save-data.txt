@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 25 22:06:04 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Priya\\AndroidStudioProjects\\Amazon\\AmazonProject-20180405T055540Z-001\\AmazonProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
